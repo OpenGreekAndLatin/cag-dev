@@ -47,8 +47,8 @@
          <addName xml:lang="de">Michael Hayduck</addName>
         </persName>
        </editor> 
-       <author>Alexander Aphrodisiensis</author>  
-       <title>In Aristotelis Metaphysica Commentaria</title>
+       <author ref="http://data.perseus.org/catalog/urn:cts:greekLit:tlg0732">Alexander Aphrodisiensis</author>  
+       <title ref="http://data.perseus.org/catalog/urn:cts:greekLit:tlg0732.tlg004.opp-grc1">In Aristotelis Metaphysica Commentaria</title>
        <imprint>
         <publisher>Berolini: Typis et Impensis G. Reimeri</publisher>
         <pubPlace>Berlin</pubPlace>
