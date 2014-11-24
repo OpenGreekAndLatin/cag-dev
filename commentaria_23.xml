@@ -53,11 +53,11 @@
                                     <addName xml:lang="de">Max Wallies</addName>
                                 </persName>
                             </editor>
-                            <author>Sophonias</author>  
+                            <author ref="http://data.perseus.org/catalog/urn:cts:greekLit:tlg4030">Sophonias</author>  
                             <author>Anonymus</author> 
-                            <author>Themistius</author> 
+                            <author ref="http://data.perseus.org/catalog/urn:cts:greekLit:tlg2001">Themistius</author> 
                             <author>Anonymus</author> 
-                            <title>In libros de anima paraphrasis</title>
+                            <title ref="http://data.perseus.org/catalog/urn:cts:greekLit:tlg4030.tlg001.opp-grc1">In libros de anima paraphrasis</title>
                             <title>Categoriarum paraphrasis</title>
                             <title>Quae fertur in Aristotelis analyticorum priorum librum I paraphrasis</title>
                             <title>In sophisticos elenchos paraphrasis</title>
