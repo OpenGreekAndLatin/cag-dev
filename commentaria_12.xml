@@ -6,6 +6,7 @@
       <titleStmt>
       <title>Commentaria in Aristotelem Graeca</title>
         <editor>Adolf Busse</editor>
+        <editor>Wilhelm Stüve</editor>
         <sponsor>University of Leipzig</sponsor>
         <funder>European Social Fund Saxony</funder>
         <principal>Gregory Crane</principal>
@@ -45,9 +46,11 @@
             <monogr>
             <title>Commentaria in Aristotelem Graeca</title>
             <title>Prolegomena et in Categorias</title>
+            <title>In Aristotelis Meteora</title>
               <editor>
                 <persName>
                 <name xml:lang="grc">Adolf Busse</name>
+                <name xml:lang="grc">Wilhelm Stüve</name>
                 </persName>
               </editor>
             <author>Olympiodorus</author>
@@ -55,6 +58,7 @@
                 <publisher>Georg Reimeri</publisher>
                 <pubPlace>Leipzig</pubPlace>
                 <date>1902</date>
+                <date>1900</date>
               </imprint>
               <biblScope unit="volume">XII</biblScope>
             </monogr>
