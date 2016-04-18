@@ -29,8 +29,8 @@
    <publicationStmt>
     <authority>University of Leipzig</authority>
     <idno type="filename">commentaria_22_1.xml</idno>
-    <availability>
-     <licence target="https://creativecommons.org/licenses/by-sa/4.0/">Available under a Creative Commons Attribution-ShareAlike 4.0 International License</licence>
+    <availability><p>
+     <ref target="https://creativecommons.org/licenses/by-sa/4.0/">Available under a Creative Commons Attribution-ShareAlike 4.0 International License</ref></p>
     </availability>
     <date>2014</date>
     <publisher>University of Leipzig</publisher>
@@ -54,9 +54,9 @@
         <pubPlace>Berlin</pubPlace>
         <date>1903</date>
        </imprint>
-       <biblScope unit="volume">22.1</biblScope>
+       <biblScope type="volume">22.1</biblScope>
       </monogr>
-      <ref target="http://archive.org/stream/p1commentariaina22akaduoft#page/n7/mode/2up">Internet Archive</ref>
+      <idno n="http://archive.org/stream/p1commentariaina22akaduoft#page/n7/mode/2up">Internet Archive</idno>
       
       
      </biblStruct>
@@ -89,10 +89,10 @@
 <head>PRAEFATIO</head>
 <p>Ipse Michael horum commentariorum 149, 1 ss. hoc ordine scholas
 suas Aristotelicas enumerat:
-<lg><l>Περὶ ζῴων μορίων καὶ πορείας</l>
+<quote><l>Περὶ ζῴων μορίων καὶ πορείας</l>
 <l>Περὶ ζῴων κινήσεως</l>
 <l>Περὶ μακροβιότητος καὶ βραχυβιότητος</l>
-<l>καὶ σὺν τούτοις τὰ περὶ γήρως καὶ νεότητος2).</l></lg>
+<l>καὶ σὺν τούτοις τὰ περὶ γήρως καὶ νεότητος2).</l></quote>
 qua in enumeratione temponnn ordinem, quo edita sunt scripta, secutus
 esse vidctur. certe huic ordini cetera temporum vestigia, quae percurrens
 Michaelis scholas inveni — alia additurum esse, qui accuratius omnes
@@ -336,7 +336,7 @@ cum Al. p. 95,1—4; Mich. p. 100,19—29 cum ΑΙ. p. 94,26—30. 95,6—11.
 19—22.</p>
 </div>
 
-<div type="edition" subtype="book.1" n="vol. xxii">
+<div type="edition" subtype="work" n="http://data.perseus.org/catalog/urn:cts:greekLit:tlg4034.tlg002.opp-grc1">
 <div type="textpart" subtype="chapter" n="1">
 <head>MICHAELIS EPHESII
 IN PARVA NATURALIA
@@ -2404,7 +2404,7 @@ om. CRP 15 καὶ ante εἰ add. RP 16 ἀκινητήσονυσιν C, item 
 e corr. R (Arisi. KMYL) 30 πάσας Sa</note>
 
 <pb n="49"/>
-αἰσθήσεις πάσας ἀργεῖν, δῆλον καὶ ἐκ τῶν λειποψυχούντων ἐν γὰρ ταῖς <note type="marginal"><lb n=""/></note>
+αἰσθήσεις πάσας ἀργεῖν, δῆλον καὶ ἐκ τῶν λειποψυχούντων ἐν γὰρ ταῖς <note type="marginal"></note>
 γάρ φησι τὸν λειποψυχοῦντα ὑπνώττειν. ὁμοίως δὲ καὶ ἐν ταῖς ἐκνοίαις
 (ἔκνοια δέ ἐστι μανία τις)· πολλοὶ γὰρ ἐν ταῖς ἐκνοίαις κατεσθίουσιν αὑτῶν
 <lb n="5"/> τὰς σάρκας καὶ οὐκ ἐπαισθάνονται. ἔστι δὲ καὶ τότε ἠρεμία πασῶν τῶν <lb n="40"/>
@@ -6758,6 +6758,9 @@ CP 24 ὑποστρέφοντος CP 25 ἐξέρχεται P ὑπὸ τοῦ
 θανάτου καὶ ἀναπνοῆς ἀριστοτέλους a</note>
 </div>
 
+
+</div>
+
 <div type="commentary" subtype="index.1">
 <pb n="151"/>
 <head>INDICES</head>
@@ -9361,9 +9364,10 @@ VATICANI 261 P 1 chart, saec. XV et 1032 chart, saec. XV comm. in
 1. 1. de part. anim. continent.</p>
 </div>
 
-<div type="edition" subtype="book.2" n="vol. xxii">
+
 <pb n="xv"/>
-<head>MICHAELIS EPHESII
+	 <div type="edition" subtype="work" n="tlg4034-tlg003">
+	  <head>MICHAELIS EPHESII
 IN LIBROS
 DE PARTIBUS ANIMALIUM
 COMMENTARIA I</head>
@@ -18534,14 +18538,15 @@ PARISINUS gr. 1927, AMBROSIANUS B 95 sup., denique MUTINENSIS gr. 197,
 [de quibus omnibus cf. Heylbut ΧΧ vi sqq] hic commemoravisse satis habeo</p>
 </div>
 
-<div type="edition" subtype="book.3" n="vol. xxii">
+
 <pb n="ix"/>
-<head>MICHAELIS EPHESII
+	 <div type="edition" subtype="book.3" n="tlg4034-tlg006">
+	  <head>MICHAELIS EPHESII
 IN LIBRUM QUINTUM ETHICORUM
 NICOMACHEORUM
 COMMENTARIUM</head>
 
-<div type="textpart" subtype="chapter" n="1">
+
 <pb n="1"/>
 <head>ΕΞΗΓΗΣΙΣ ΤΟΥ ΕΦΕΣΙΟΥ ΚΥΡΙΟΥ ΜΙΧΑΗΛ ΕΙΣ ΤΟ ΠΕΜΠΤΟΝ <note type="marginal">Ed. Aldina
 f. 59v</note>
@@ -21669,7 +21674,7 @@ prius orn. a 16 εἶναι] οὖν S 17 τὸ post δὲ om. Ba δίκαιο�
 22 ἄρχει μὲν om. S ἄρχηται S 23 ἄρχῃ S 24 ἄρχηται Ba
 ἄρχοντα a: ἄρχηται S 25 αὐτοῦ S 26. 27 τοῦ ἀρχομένου S 27 τὰ
 σωτηρία S</note>
-</div>
+
 </div>
 
 <div type="commentary" subtype="index.1">
@@ -22790,7 +22795,7 @@ Troades. 8. 1891 . . . . . . . . . . . . . . . . . . . . . . M. 9.—</p>
 Religion. Festschrift für Hermann Diels zum 22. Dezember 1895.
 8. 1895 . . . . . . . . . . . . . . . . . . . . . . . . . . . M. 2.—</p>
 </div>
-</div>
+
 </body>
 </text>
 </TEI>
